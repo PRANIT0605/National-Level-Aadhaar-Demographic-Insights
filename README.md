@@ -15,9 +15,15 @@ This project analyzes large scale UIDAI Aadhaar enrolment, demographic update, a
 The project combines exploratory analytics, feature engineering, anomaly detection, predictive modeling, and Power BI dashboards to transform raw Aadhaar data into actionable intelligence for infrastructure planning and lifecycle management.
 
 ---
-## Full Project Report
-[View Full Report](report/UIDAI-Report.pdf)
 
+## Risk_Frontiers_and_Failure_Zones
+<img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/b7849d40-4ee0-4240-bed1-f2dc4bd471e6" />
+
+
+ 
+## Full Project Report: [View Full Report](report/UIDAI-Report.pdf) 
+
+---
 # Problem Statement
 
 Aadhaar serves as India’s primary digital identity infrastructure and supports access to financial services, welfare schemes, and government programs across the country. Although enrolment coverage has achieved large scale national penetration, demographic and biometric update activity remains highly inconsistent across regions.
@@ -51,6 +57,23 @@ The project demonstrates that Aadhaar system performance depends significantly m
 - Identified underserved lifecycle maintenance zones
 - Built predictive risk classification framework
 - Developed Power BI governance dashboards
+---
+
+### Architecture
+Raw UIDAI Data  
+   ↓  
+Cleaning & Aggregation  
+   ↓  
+Feature Engineering  
+   ↓  
+EDA & Geographic Analysis  
+   ↓  
+Anomaly Detection   
+   ↓  
+Predictive Analytics  
+   ↓  
+Power BI Dashboard  
+
 ---
 
 # Datasets Used
@@ -276,8 +299,7 @@ The project includes interactive Power BI dashboards designed for governance lev
 
 ---
 
-## Risk_Frontiers_and_Failure_Zones
-<img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/b7849d40-4ee0-4240-bed1-f2dc4bd471e6" />
+
 
 ---
 
