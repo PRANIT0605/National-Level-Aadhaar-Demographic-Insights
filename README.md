@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Analytics](https://img.shields.io/badge/Data-Analytics-green)
+![UIDAI](https://img.shields.io/badge/UIDAI-Governance-orange)
+![Anomaly Detection](https://img.shields.io/badge/AI-Anomaly%20Detection-critical)
+![Predictive Analytics](https://img.shields.io/badge/Predictive-Analytics-informational)
+![Pincode Level](https://img.shields.io/badge/Granularity-Pincode%20Level-success)
+
 # National Level Aadhaar Analytics & Demographic Insights Dashboard
 ### **A Governance Analytics Framework for Aadhaar Lifecycle Monitoring and Predictive Risk Assessment**
 ## Overview
