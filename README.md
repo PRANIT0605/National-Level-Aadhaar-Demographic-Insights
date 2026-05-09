@@ -1,5 +1,5 @@
 # National Level Aadhaar Analytics & Demographic Insights Dashboard
-
+### **A Governance Analytics Framework for Aadhaar Lifecycle Monitoring and Predictive Risk Assessment**
 ## Overview
 
 This project analyzes large scale UIDAI Aadhaar enrolment, demographic update, and biometric update datasets to evaluate the operational health of the Aadhaar ecosystem across India. The objective of the project is to identify underserved regions, detect lifecycle maintenance gaps, analyze update behavior, and generate predictive insights capable of supporting governance level decision making.
@@ -256,6 +256,21 @@ The project includes interactive Power BI dashboards designed for governance lev
 * High risk district identification
 * Infrastructure stress analysis
 * Predictive operational insights
+
+---
+
+## Risk_Frontiers_and_Failure_Zones
+<img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/b7849d40-4ee0-4240-bed1-f2dc4bd471e6" />
+
+---
+
+## Aadhaar Enrolment Inequality
+<img width="965" height="545" alt="image" src="https://github.com/user-attachments/assets/fadb7c53-9afb-49bb-baa9-18f9bf1ac08f" />
+
+---
+
+## Seasonal_Stress_Vulnerability
+<img width="977" height="551" alt="image" src="https://github.com/user-attachments/assets/9c736214-2212-4382-b6bc-c199a08167dc" />
 
 ---
 
