@@ -7,6 +7,8 @@ This project analyzes large scale UIDAI Aadhaar enrolment, demographic update, a
 The project combines exploratory analytics, feature engineering, anomaly detection, predictive modeling, and Power BI dashboards to transform raw Aadhaar data into actionable intelligence for infrastructure planning and lifecycle management.
 
 ---
+## Full Project Report
+[View Full Report](report/UIDAI-Report.pdf)
 
 # Problem Statement
 
